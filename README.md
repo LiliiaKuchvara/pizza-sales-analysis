@@ -1,13 +1,15 @@
-# pizza-sales-analysis
-Midterm Data Analytics Project / проміжний проєкт з дата аналітики
+#pizza-sales-analysis
+Midterm Data Analytics Project
 Business Context
-Власниця піцерії Лаура прагнула краще зрозуміти продажі свого закладу та приймати рішення на основі даних. Для цього було проведено аналіз історичних даних про замовлення з використанням SQL та Tableau.
+Laura, the owner of a pizzeria, wanted to better understand her restaurant’s sales and make data-driven decisions. To this end, an analysis of historical order data was conducted using SQL and Tableau.
 Key Business Questions
-- Які піци приносять найбільшу виручку?
-- Які розміри піци користуються найбільшим попитом?
-- У які години спостерігається найбільша активність клієнтів?
-- Які продукти варто активніше просувати?
-- Як змінюються продажі протягом року?
-- Які рекомендації можуть допомогти збільшити виручку та покращити операційну ефективність ресторану?
+- Which pizzas generate the most revenue?
+- Which pizza sizes are in highest demand?
+- At what times of day is customer activity highest?
+- Which products should be promoted more actively?
+- How do sales vary throughout the year?
+- What recommendations can help increase revenue and improve the restaurant’s operational efficiency?
 Project Goal
-Перетворити дані про продажі на практичні бізнес-рекомендації щодо управління меню, персоналом та маркетинговими активностями, а також створити інтерактивний дашборд для моніторингу ключових показників бізнесу.
+To transform sales data into actionable business recommendations for managing the menu, staff, and marketing activities, as well as to create an interactive dashboard for monitoring key business metrics.
+
+Translated with DeepL.com (free version)
